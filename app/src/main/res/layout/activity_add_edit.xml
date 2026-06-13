@@ -74,6 +74,5 @@
             android:layout_height="wrap_content"
             android:text="저장"
             android:layout_marginTop="16dp"/>
-
     </LinearLayout>
 </ScrollView>
